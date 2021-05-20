@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+**I will join the [Department of Statistics and Data Science](https://stat.utexas.edu/) (SDS) at the University of Texas at Austin as an assistant professor in Summer 2021.** 
 
 I am a [Data Science Fellow](https://midas.umich.edu/fellows/) with the
 Michigan Institute for Data Science ([MIDAS](https://midas.umich.edu/)) at the University of Michigan. Before that, I was McWilliams postdoctoral research fellow at the McWilliams Center for Cosmology in [Carnegie Mellon University](https://www.cmu.edu/). I received my Ph.D. in Scientific Computing and Physics from the [University of Michigan](https://www.umich.edu/). My research contributes to the fields of astroinformatics and urban informatics; and is focused on understanding and mitigating the unexpected and not-well understood consequences of AI models, including algorithmic bias and uncertainty quantification, in real-world settings. My Ph.D. training was inastroinfomatics with focus on developing computational and algorithmic solutions for learning and inference in uncertain settings. In the past four years, I simultaneously pursued urban informatics as a new research direction. In this direction, I design and deploy AI solutions that enable data-informed decision making and resource allocation in government. My research actively contributes to both fields and have led to a number of novel research initiatives. 
