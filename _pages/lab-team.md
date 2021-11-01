@@ -57,7 +57,7 @@ A1: If you are not already a student at UT-Austin, you have to apply first.
 Faculty in our department do not hire master or Ph.D. students directly.  
 Our department accepts all students through an official application process, and applications are evaluated by a committee *not me*.
 
-A1: If you are a student in SDS (or possibly other departments, Astronomy, Physics, School of Architecture), then come talk to me or send me an email.
+A2: If you are a student in SDS (or possibly other departments, Astronomy, Physics, School of Architecture), then come talk to me or send me an email.
 Depends on your interest, there are several funded research opportunities in our lab. 
 
 
