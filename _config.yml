@@ -181,9 +181,6 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  lab-team:
-    output: true
-    permalink: /:collection/:path/
   test:
     output: true
     permalink: /:collection/:path/
@@ -223,9 +220,9 @@ defaults:
       type: lab-team
     values:
       layout: single
-      author_profile: false
-      share: false
-      comments: true
+      author_profile: true
+      share: true
+      comments: false
   # _publications
   - scope:
       path: ""
@@ -241,8 +238,8 @@ defaults:
       type: on-media
     values:
       layout: single
-      author_profile: false
-      share: false
+      author_profile: true
+      share: true
       comment: true
   # _talks
   - scope:
