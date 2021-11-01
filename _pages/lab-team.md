@@ -5,14 +5,7 @@ permalink: /lab-team/
 author_profile: true
 ---
 
-**Undergraduate/graduate students:** Our team is growing and I am actively recruiting both graduate and undergraduate students. 
-I am continually looking for dedicated students at the University of Texas at Austin (you) who are interested in 
-taking part in data science with social impact or astronomy projects. These projects involve a balance of theoretical, 
-methodological, and data analysis work. Experience in theoretical physics, astronomy, 
-statistics, or computer science is a plus but not a requirement. If you are looking for a project, feel free to email me your CV.
-
-
-**Lab Members**
+# Our Team
 
 
 **Graduate Students** 
@@ -34,15 +27,20 @@ Ben Ayers, Department of Physics, 2021 -- now
 
 
 
-
 **Joining Our Team**
 ------
 
+**Undergraduate/graduate students:** Our team is growing and I am actively recruiting both graduate and undergraduate students. 
+I am continually looking for dedicated students at the University of Texas at Austin (you) who are interested in 
+taking part in data science with social impact or astronomy projects. These projects involve a balance of theoretical, 
+methodological, and data analysis work. Experience in theoretical physics, astronomy, 
+statistics, or computer science is a plus but not a requirement. If you are looking for a project, feel free to email me your CV.
+But please read the FAQ below, as your question may already be answered below.
 
 My work email address is arya.farahi [AT] austin.utexas.edu.
 
-But please read the FAQ below, as your question may already be answered below.
-
+**FAQ**
+------
 
 *Q: I am an undergraduate. Can I do research with you?*
 
