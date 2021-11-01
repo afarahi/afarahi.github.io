@@ -1,9 +1,11 @@
 ---
 layout: single
-title: "lab-team"
+title: 
 permalink: /lab-team/
 author_profile: true
 ---
+
+{% include base_path %}
 
 # Our Team
 
