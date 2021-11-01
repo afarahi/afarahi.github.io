@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Arya Farahi"
   avatar           : "arya-f.jpg"
-  bio              : "Data Science Fellow at the University of Michigan. Previously McWilliams fellow at Carnegie Mellon University. Ph.D. in Physics and Scientific Computing from the University of Michigan. Co-founder of Michigan-Data Informed Cities for Everyone (M-DICE). Former VP of projects at Michigan Data Science Team (MDST). Member of the Cosmostatistics Initiative (COINS), Baryon Pasters (BP), and >10 other research teams. Educator, Computer Scientist, Statistician, and Astronomer. Passionate about data science for social good."
+  bio              : "Assistant Professor of Statsitcis and Data Science at UT-Austin. Foremr Data Science Fellow at the University of Michigan, McWilliams fellow at Carnegie Mellon University. Ph.D. in Physics and Scientific Computing from the University of Michigan. Co-founder of Michigan-Data Informed Cities for Everyone (M-DICE). Former VP of projects at Michigan Data Science Team (MDST). Member of the Cosmostatistics Initiative (COINS), Baryon Pasters (BP), and >10 other research teams. Educator, Computer Scientist, Statistician, and Astronomer. Passionate about data science for social good."
   location         : "Ann Arbor, MI"
   employer         : "University of Michigan"
   googlescholar    : "https://scholar.google.com/citations?user=TFLWMfQAAAAJ&hl=en"
@@ -181,6 +181,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  lab-team:
+    output: true
+    permalink: /:collection/:path/
   test:
     output: true
     permalink: /:collection/:path/
@@ -209,6 +212,15 @@ defaults:
   - scope:
       path: ""
       type: teaching
+    values:
+      layout: single
+      author_profile: false
+      share: false
+      comments: true
+  # _lab-team
+  - scope:
+      path: ""
+      type: lab-team
     values:
       layout: single
       author_profile: false
