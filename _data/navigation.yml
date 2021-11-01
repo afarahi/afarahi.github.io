@@ -15,6 +15,10 @@ main:
   - title: "On Media"
     url: /on-media/
     
+  - title: "Research Team"
+    url: /lab-team/
+ 
+    
   #- title: "Data Science"
   #  url: /data-science/
     
