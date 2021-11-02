@@ -13,13 +13,13 @@ author_profile: true
 **Graduate Students** 
 ------
 
-Adam McCarron, Department of Astronomy, 2021 -- now
+[Adam McCarron](https://mcdonald.utexas.edu/component/cobalt/item/11-astronomy/4099-mccarron-adam?Itemid=1287), Department of Astronomy, 2021 -- now
 
 
-Yefu Chen, School of Architecture, 2021 -- now
+[Yefu Chen](https://soa.utexas.edu/people/yefu-chen), School of Architecture, 2021 -- now
 
 
-Seung Jun Choi, School of Architecture, 2021 -- now
+[Seung Jun Choi](https://soa.utexas.edu/people/seung-jun-choi), School of Architecture, 2021 -- now
 
 
 **Undergraduate Students**
