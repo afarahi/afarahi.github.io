@@ -13,7 +13,7 @@ author_profile: true
 **Graduate Students** 
 ------
 
-Adam Adam McCarron, Department of Astronomy, 2021 -- now
+Adam McCarron, Department of Astronomy, 2021 -- now
 
 
 Yefu Chen, School of Architecture, 2021 -- now
