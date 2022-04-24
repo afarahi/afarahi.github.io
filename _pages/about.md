@@ -18,9 +18,9 @@ I am currently leading three research teams. I am co-director of [Urban Informat
 **Undergraduate/graduate students**: Our team is growing, and I am actively recruiting both graduate and undergraduate students. I am continually looking for dedicated students at the University of Texas at Austin (*you*) who are interested in data science with social impact or astronomy projects. These projects involve a balance of theoretical, methodological, and data analysis work. Experience in theoretical physics, astronomy, statistics, or computer science is a plus but not a requirement. If you are looking for a project, please read [FAQs](https://afarahi.github.io/lab-team/) here and then send me an email.
 
 
-General Research Interest
+General Research Interests
 ------
-My general research interest goes beyond what I am currently focused on. Here is a non-exhaustive list of my research interests:
+My general research interests go beyond what I am currently focused on. Here is a non-exhaustive list of my research interests:
 
 
 **Main Research**
