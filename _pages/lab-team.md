@@ -29,6 +29,8 @@ Ben Ayers, Department of Physics, 2021 -- now
 
 
 
+
+
 **Joining Our Team**
 ------
 
@@ -46,11 +48,15 @@ My work email address is arya.farahi [AT] austin.utexas.edu.
 
 *Q: I am an undergraduate. Can I do research with you?*
 
-A: If you’re not a UT-Austin student, then most likely not. However, if you are
-a student at UT-Austin, then there are RA opportunities in our lab. A majority of our projects are funded. 
+A: If you’re not a UT-Austin student, then most likely not. However, if you are a student at UT-Austin, then there are RA opportunities in our lab.
 In our team we are looking for students with strong background in coding and/or statistics. 
-Please send me your CV and explain your research interest.
-If we find a project, I might be able to fund you.
+To conduct research, you either need to registure for undergraduate research (SDS 179R, 279R, 379R, or 479R) or complete honor thesis with me. 
+Please send me your CV and explain your research interest. 
+
+*Q: Do you write a recommendation letter for me?
+
+A: I would be more than happy to write you recommendation letters, if you have done research in our lab for more than 3 months.
+However, if you have only taken one undergraduate course with me, I declin writing a recommendation letter. Taking a course does not give us enough opportunity to interact. With limited interaction, I cannot fairly speak on my behalf. 
 
 
 *Q: I want to be your graduate student. How can I work with you?*
@@ -59,7 +65,7 @@ A1: If you are not already a student at UT-Austin, you have to apply first.
 Faculty in our department do not hire master or Ph.D. students directly.  
 Our department accepts all students through an official application process, and applications are evaluated by a committee *not me*.
 
-A2: If you are a student in SDS (or possibly other departments, Astronomy, Physics, School of Architecture), then come talk to me or send me an email.
+A2: If you are a student in SDS (or possibly other departments, Astronomy, Physics, Computer Science), then come talk to me or send me an email.
 Depends on your interest, there are several funded research opportunities in our lab. 
 
 
@@ -87,4 +93,8 @@ A: I normally don't fund visiting students, but if you work on topics that I’m
 
 A: Unless I have an announcement on my site that I am looking for postdocs, or you heard some other way that I am hiring, then no.
 The SDS department, however, does occasionally hire postdoctoral fellows – if you’re interested, I encourage you to apply.
+
+
+
+My work email address is arya.farahi [AT] austin.utexas.edu.
 
