@@ -13,8 +13,6 @@ author_profile: true
 **Graduate Students** 
 ------
 
-[Adam McCarron](https://mcdonald.utexas.edu/component/cobalt/item/11-astronomy/4099-mccarron-adam?Itemid=1287), Department of Astronomy, 2021 -- now
-
 
 [Yefu Chen](https://soa.utexas.edu/people/yefu-chen), School of Architecture, 2021 -- now
 
@@ -22,23 +20,33 @@ author_profile: true
 [Seung Jun Choi](https://soa.utexas.edu/people/seung-jun-choi), School of Architecture, 2021 -- now
 
 
+[Angela Ting](https://stat.utexas.edu/people/angela-ting), Department of Statistics and Data Science, 2022 (research rotation, spring)
+
+
+
 **Undergraduate Students**
 ------
 
-Ben Ayers, Department of Physics, 2021 -- now
+Prachi Ingle, Department of Computer Science, 2022 -- now
 
 
+**Alumni**
+------
+
+Adam McCarron, Department of Astronomy, 2021 -- 2022 [graduate student]
+
+Ben Ayers, Department of Physics, 2021 -- 2022 [undergraduate]
 
 
 
 **Joining Our Team**
 ------
 
-**Undergraduate/graduate students:** Our team is growing and I am actively recruiting both graduate and undergraduate students. 
+**Undergraduate/graduate students:** Our team is growing, and I am actively recruiting graduate and undergraduate students. 
 I am continually looking for dedicated students at the University of Texas at Austin (you) who are interested in 
 taking part in data science with social impact or astronomy projects. These projects involve a balance of theoretical, 
 methodological, and data analysis work. Experience in theoretical physics, astronomy, 
-statistics, or computer science is a plus but not a requirement. If you are looking for a project, feel free to email me your CV.
+statistics, or computer science is a plus but not a requirement. If you are looking for a project, please email me your CV.
 But please read the FAQ below, as your question may already be answered below.
 
 My work email address is arya.farahi [AT] austin.utexas.edu.
@@ -48,51 +56,44 @@ My work email address is arya.farahi [AT] austin.utexas.edu.
 
 *Q: I am an undergraduate. Can I do research with you?*
 
-A: If you’re not a UT-Austin student, then most likely not. However, if you are a student at UT-Austin, then there are RA opportunities in our lab.
-In our team we are looking for students with strong background in coding and/or statistics. 
-To conduct research, you either need to registure for undergraduate research (SDS 179R, 279R, 379R, or 479R) or complete honor thesis with me. 
+A: If you're not a UT-Austin student, most likely not. However, if you are a UT-Austin student, there are RA opportunities in our lab.
+We are looking for students with a strong background in coding or statistics to join our team. 
+To conduct research, you either need to sign up for undergraduate study (SDS 179R, 279R, 379R, or 479R) or complete an honor thesis with me. 
 Please send me your CV and explain your research interest. 
-
-*Q: Do you write a recommendation letter for me?
-
-A: I would be more than happy to write you recommendation letters, if you have done research in our lab for more than 3 months.
-However, if you have only taken one undergraduate course with me, I declin writing a recommendation letter. Taking a course does not give us enough opportunity to interact. With limited interaction, I cannot fairly speak on my behalf. 
 
 
 *Q: I want to be your graduate student. How can I work with you?*
 
 A1: If you are not already a student at UT-Austin, you have to apply first. 
-Faculty in our department do not hire master or Ph.D. students directly.  
-Our department accepts all students through an official application process, and applications are evaluated by a committee *not me*.
+Faculty in our department do not hire master's or Ph.D. students directly.  
+Our department accepts all students through an official application process, and a committee evaluates applications *not me*.
 
-A2: If you are a student in SDS (or possibly other departments, Astronomy, Physics, Computer Science), then come talk to me or send me an email.
-Depends on your interest, there are several funded research opportunities in our lab. 
+A2: If you are a student in SDS (or possibly other departments, Astronomy, Physics, Computer Science), then talk to me or send me an email.
+Depending on your interest, our lab has several funded research opportunities. 
 
 
 *Q: I want to come to UT-Austin for graduate school to join your lab?*
 
-A: In our lab, we have students from all over the campus. However, if you want me to be your primary advisor then you need to be affiliated with SDS.
+A: In our lab, we have students from all over the campus. However, if you want me to be your primary advisor, you need to be affiliated with SDS.
 In this case, I suggest you apply for the SDS program. 
-Though it’s sometimes possible to work with faculty from a department other than the one you enroll in (ask the department you are applying to). 
-Depends on your research interest, I might be able to be your co-advisor if your primary department is not SDS, but you need to talk to your primary advisor first. 
+Though it's sometimes possible to work with faculty from a department other than the one you enroll in (ask the department you are applying to). 
+Depending on your research interest, I might be able to be your co-advisor if your primary department is not SDS, but you need to talk to your primary advisor first. 
 
 
-*Q: I want to come to UT-Austin to be your graduate student. Can you evaluate my chances of being admitted to your Ph.D. (or Master’s) program?*
+*Q: I want to come to UT-Austin to be your graduate student. Can you evaluate my chances of being admitted to your Ph.D. (or Master's) program?*
 
-A: Unfortunately, no. I get too many such requests to reply to all of them. I suggest you apply for the SDS program (or potentially other relevant programs)
-first. Once you get admitted to a graduate program, I would be happy to discuss project ideas and chat about potential research opportunities in our lab. 
-The faculty in our department does not directly admit students. 
+A: Unfortunately, no. I get too many such requests to reply to all of them. I suggest you apply for the SDS program (or potentially other relevant programs) first. Once you get admitted to a graduate program, I would be happy to discuss project ideas and chat about potential research opportunities in our lab. The faculty in our department does not directly admit students. 
 
 
 *Q: I am a graduate student at another university. Can I come work with you for a summer (or semester)?*
 
-A: I normally don't fund visiting students, but if you work on topics that I’m interested in and have another source of funding, feel free to email me.
+A: I usually don't fund visiting students, but if you work on topics that I'm interested in and have another funding source, feel free to email me.
 
 
-*Q: I am interested working with you as a postdoc. Will you consider my application to join your group?*
+*Q: I am interested in working with you as a postdoc. Will you consider my application to join your group?*
 
-A: Unless I have an announcement on my site that I am looking for postdocs, or you heard some other way that I am hiring, then no.
-The SDS department, however, does occasionally hire postdoctoral fellows – if you’re interested, I encourage you to apply.
+A: Unless I have an announcement on my site that I am looking for postdocs, or you heard another way that I am hiring, then no.
+However, the SDS department does occasionally hire postdoctoral fellows – if you're interested, I encourage you to apply.
 
 
 
