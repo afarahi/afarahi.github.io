@@ -206,6 +206,7 @@
   left: 10px;
   width: 40px;
   height: 40px;
+  right: auto;
 }
 
 .u-section-2 .u-carousel-control-2 {
@@ -799,6 +800,10 @@
 }
 
 @media (max-width: 991px) {
+  .u-section-6 .u-image-2 {
+    margin-top: 20px;
+  }
+
   .u-section-6 .u-gallery-inner-1 {
     grid-template-columns: repeat(2, auto);
   }

@@ -285,7 +285,7 @@
 }
 
 .u-section-3 .u-sheet-1 {
-  min-height: 450px;
+  min-height: 480px;
 }
 
 .u-section-3 .u-layout-wrap-1 {
@@ -294,7 +294,7 @@
 }
 
 .u-section-3 .u-image-1 {
-  min-height: 450px;
+  min-height: 480px;
   background-image: url("https://assets.nicepagecdn.com/00d6ed48/4813149/images/HannahLee.jpg");
   background-position: 50% 50%;
 }
@@ -304,7 +304,7 @@
 }
 
 .u-section-3 .u-layout-cell-2 {
-  min-height: 450px;
+  min-height: 480px;
 }
 
 .u-section-3 .u-container-layout-2 {
@@ -346,7 +346,7 @@
   }
 
   .u-section-3 .u-image-1 {
-    min-height: 371px;
+    min-height: 396px;
   }
 
   .u-section-3 .u-container-layout-1 {
@@ -355,7 +355,7 @@
   }
 
   .u-section-3 .u-layout-cell-2 {
-    min-height: 371px;
+    min-height: 396px;
     background-position: 50% 50%;
   }
 
@@ -381,7 +381,7 @@
   }
 
   .u-section-3 .u-image-1 {
-    min-height: 568px;
+    min-height: 607px;
   }
 
   .u-section-3 .u-layout-cell-2 {
@@ -395,7 +395,7 @@
   }
 
   .u-section-3 .u-image-1 {
-    min-height: 426px;
+    min-height: 455px;
   }
 
   .u-section-3 .u-container-layout-1 {
@@ -419,7 +419,7 @@
   }
 
   .u-section-3 .u-image-1 {
-    min-height: 268px;
+    min-height: 286px;
   }
 
   .u-section-3 .u-layout-cell-2 {
@@ -438,7 +438,7 @@
 }
 
 .u-section-4 .u-sheet-1 {
-  min-height: 450px;
+  min-height: 480px;
 }
 
 .u-section-4 .u-layout-wrap-1 {
@@ -447,7 +447,7 @@
 }
 
 .u-section-4 .u-layout-cell-1 {
-  min-height: 450px;
+  min-height: 480px;
 }
 
 .u-section-4 .u-container-layout-1 {
@@ -477,9 +477,15 @@
   margin: 20px 47px 0 0;
 }
 
+.u-section-4 .u-text-3 {
+  text-align: left;
+  font-size: 1.125rem;
+  margin: 20px 47px 0 0;
+}
+
 .u-section-4 .u-image-1 {
-  min-height: 450px;
-  background-image: url("https://assets.nicepagecdn.com/00d6ed48/4813149/images/247bb4993aab4aa30c5dfae7cde50df3272a357ce7264a19f04a68c617d88856f9e28470503df752eaa586fcac538824a37b3cfeec48021108be9c_1280.png");
+  min-height: 480px;
+  background-image: url("https://assets.nicepagecdn.com/00d6ed48/4813149/images/prachi.png");
   background-position: 50% 50%;
 }
 
@@ -493,8 +499,8 @@
   }
 
   .u-section-4 .u-layout-cell-1 {
-    min-height: 371px;
     background-position: 50% 50%;
+    min-height: 396px;
   }
 
   .u-section-4 .u-group-1 {
@@ -508,8 +514,12 @@
     margin-right: 0;
   }
 
+  .u-section-4 .u-text-3 {
+    margin-right: 0;
+  }
+
   .u-section-4 .u-image-1 {
-    min-height: 371px;
+    min-height: 396px;
   }
 
   .u-section-4 .u-container-layout-3 {
@@ -524,11 +534,11 @@
   }
 
   .u-section-4 .u-layout-cell-1 {
-    min-height: 774px;
+    min-height: 100px;
   }
 
   .u-section-4 .u-image-1 {
-    min-height: 568px;
+    min-height: 607px;
   }
 }
 
@@ -537,17 +547,17 @@
     min-height: 533px;
   }
 
-  .u-section-4 .u-layout-cell-1 {
-    min-height: 581px;
-  }
-
   .u-section-4 .u-container-layout-1 {
     padding-right: 10px;
     padding-left: 0;
   }
 
+  .u-section-4 .u-text-3 {
+    font-size: 1rem;
+  }
+
   .u-section-4 .u-image-1 {
-    min-height: 426px;
+    min-height: 455px;
   }
 
   .u-section-4 .u-container-layout-3 {
@@ -559,10 +569,6 @@
 @media (max-width: 575px) {
   .u-section-4 .u-sheet-1 {
     min-height: 318px;
-  }
-
-  .u-section-4 .u-layout-cell-1 {
-    min-height: 366px;
   }
 
   .u-section-4 .u-group-1 {
@@ -574,23 +580,23 @@
   }
 
   .u-section-4 .u-image-1 {
-    min-height: 268px;
+    min-height: 286px;
   }
 } .u-section-5 {
   background-image: none;
 }
 
 .u-section-5 .u-sheet-1 {
-  min-height: 450px;
+  min-height: 480px;
 }
 
 .u-section-5 .u-layout-wrap-1 {
-  width: 100%;
-  margin: 0;
+  margin-top: 0;
+  margin-bottom: 0;
 }
 
 .u-section-5 .u-image-1 {
-  min-height: 450px;
+  min-height: 480px;
   background-image: url("https://assets.nicepagecdn.com/00d6ed48/4813149/images/download20230500094539.png");
   background-position: 50% 50%;
 }
@@ -600,7 +606,7 @@
 }
 
 .u-section-5 .u-layout-cell-2 {
-  min-height: 450px;
+  min-height: 480px;
 }
 
 .u-section-5 .u-container-layout-2 {
@@ -611,7 +617,7 @@
   min-height: 38px;
   width: 219px;
   height: auto;
-  margin: 28px auto 0 47px;
+  margin: 20px 314px 0 3px;
 }
 
 .u-section-5 .u-container-layout-3 {
@@ -621,24 +627,28 @@
 
 .u-section-5 .u-text-1 {
   font-weight: 500;
-  margin: 8px 0 0 auto;
+  margin: 8px auto 0 0;
 }
 
 .u-section-5 .u-text-2 {
   font-size: 2.625rem;
   font-weight: 700;
-  margin: 12px 0 0 47px;
+  margin: 20px 47px 0 auto;
 }
 
 .u-section-5 .u-text-3 {
   text-align: left;
   font-size: 1.125rem;
-  margin: 20px 0 0 47px;
+  margin: 20px 47px 0 auto;
 }
 
 @media (max-width: 1199px) {
   .u-section-5 .u-sheet-1 {
     min-height: 357px;
+  }
+
+  .u-section-5 .u-image-1 {
+    min-height: 396px;
   }
 
   .u-section-5 .u-container-layout-1 {
@@ -647,22 +657,23 @@
   }
 
   .u-section-5 .u-layout-cell-2 {
+    min-height: 396px;
     background-position: 50% 50%;
   }
 
   .u-section-5 .u-group-1 {
-    width: 16px;
+    margin-right: 217px;
     margin-left: 0;
     height: auto;
   }
 
   .u-section-5 .u-text-2 {
     font-size: 2.25rem;
-    margin-left: 0;
+    margin-right: 0;
   }
 
   .u-section-5 .u-text-3 {
-    margin-left: 0;
+    margin-right: 0;
   }
 }
 
@@ -672,11 +683,11 @@
   }
 
   .u-section-5 .u-image-1 {
-    min-height: 900px;
+    min-height: 607px;
   }
 
   .u-section-5 .u-layout-cell-2 {
-    min-height: 100px;
+    min-height: 774px;
   }
 }
 
@@ -685,24 +696,40 @@
     min-height: 533px;
   }
 
+  .u-section-5 .u-image-1 {
+    min-height: 455px;
+  }
+
   .u-section-5 .u-container-layout-1 {
     padding-left: 10px;
     padding-right: 10px;
+  }
+
+  .u-section-5 .u-layout-cell-2 {
+    min-height: 581px;
   }
 
   .u-section-5 .u-container-layout-2 {
     padding-right: 10px;
     padding-left: 0;
   }
-
-  .u-section-5 .u-text-3 {
-    font-size: 1rem;
-  }
 }
 
 @media (max-width: 575px) {
   .u-section-5 .u-sheet-1 {
     min-height: 318px;
+  }
+
+  .u-section-5 .u-image-1 {
+    min-height: 286px;
+  }
+
+  .u-section-5 .u-layout-cell-2 {
+    min-height: 366px;
+  }
+
+  .u-section-5 .u-group-1 {
+    margin-right: 101px;
   }
 
   .u-section-5 .u-text-2 {
@@ -717,6 +744,7 @@
 }
 
 .u-section-6 .u-text-2 {
+  font-family: "Open Sans", sans-serif;
   margin: 15px 38px 0;
 }
 
@@ -736,7 +764,6 @@
   .u-section-6 .u-text-2 {
     margin-right: 0;
     margin-left: 0;
-    font-family: "Open Sans", sans-serif;
   }
 } .u-section-7 {
   background-image: none;
