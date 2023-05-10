@@ -453,7 +453,7 @@
 }
 
 .u-section-4 .u-image-1 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("https://thedailytexan.com/wp-content/uploads/2023/02/2-7-23_AustinFire_ElizabethAguilar-Garcia-900x696.jpeg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('https://thedailytexan.com/wp-content/uploads/2023/02/2-7-23_AustinFire_ElizabethAguilar-Garcia-900x696.jpeg');
   background-position: 50% 50%;
 }
 
@@ -487,7 +487,7 @@
 }
 
 .u-section-4 .u-image-2 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.15), rgba(0,0,0,0.15)), url("https://www.cmu.edu/news/stories/archives/2019/july/images/galaxy-matter-balance-1400x700.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.15), rgba(0,0,0,0.15)), url('https://www.cmu.edu/news/stories/archives/2019/july/images/galaxy-matter-balance-1400x700.jpg');
   background-position: 50% 50%;
   margin-top: 0;
   margin-bottom: 0;
@@ -523,7 +523,7 @@
 }
 
 .u-section-4 .u-image-3 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url("https://cdn.theatlantic.com/thumbor/-QqqWZSYPafYGJ4ARg9vIu03bTE=/0x156:3000x1844/1952x1098/media/img/mt/2018/12/GettyImages_513770176/original.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url('https://cdn.theatlantic.com/thumbor/-QqqWZSYPafYGJ4ARg9vIu03bTE=/0x156:3000x1844/1952x1098/media/img/mt/2018/12/GettyImages_513770176/original.jpg');
   background-position: 50% 50%;
   margin-top: 0;
   margin-bottom: 0;
@@ -559,7 +559,7 @@
 }
 
 .u-section-4 .u-image-5 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.05), rgba(0,0,0,0.05)), url("https://cdn.sci.esa.int/sci-images/content/images/2019/Gaia_DR2_brightness_colour_equir_600w.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.05), rgba(0,0,0,0.05)), url('https://cdn.sci.esa.int/sci-images/content/images/2019/Gaia_DR2_brightness_colour_equir_600w.jpg');
   background-position: 50% 50%;
   margin-top: 0;
   margin-bottom: 0;
