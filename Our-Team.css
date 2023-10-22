@@ -567,7 +567,11 @@
   .u-section-4 .u-image-1 {
     min-height: 286px;
   }
-}.u-section-5 .u-sheet-1 {
+} .u-section-5 {
+  background-image: none;
+}
+
+.u-section-5 .u-sheet-1 {
   min-height: 480px;
 }
 
@@ -578,7 +582,7 @@
 
 .u-section-5 .u-image-1 {
   min-height: 480px;
-  background-image: url("images/HannahLee.jpg");
+  background-image: url("images/download20230500094539.png");
   background-position: 50% 50%;
 }
 
@@ -778,7 +782,7 @@
 
 @media (max-width: 1199px) {
   .u-section-6 .u-sheet-1 {
-    min-height: 357px;
+    min-height: 396px;
   }
 
   .u-section-6 .u-layout-cell-1 {
@@ -813,7 +817,7 @@
 
 @media (max-width: 991px) {
   .u-section-6 .u-sheet-1 {
-    min-height: 726px;
+    min-height: 707px;
   }
 
   .u-section-6 .u-layout-cell-1 {
@@ -827,7 +831,7 @@
 
 @media (max-width: 767px) {
   .u-section-6 .u-sheet-1 {
-    min-height: 533px;
+    min-height: 555px;
   }
 
   .u-section-6 .u-container-layout-1 {
@@ -851,7 +855,7 @@
 
 @media (max-width: 575px) {
   .u-section-6 .u-sheet-1 {
-    min-height: 318px;
+    min-height: 386px;
   }
 
   .u-section-6 .u-group-1 {
@@ -880,7 +884,7 @@
 
 .u-section-7 .u-image-1 {
   min-height: 480px;
-  background-image: url("images/download20230500094539.png");
+  background-image: url("images/SmritiJasti.JPG");
   background-position: 50% 50%;
 }
 
@@ -1189,6 +1193,10 @@
 }
 
 .u-section-9 .u-icon-4 {
+  width: 18px;
+}
+
+.u-section-9 .u-icon-5 {
   width: 18px;
 }
 
