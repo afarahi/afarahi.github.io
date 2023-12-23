@@ -453,30 +453,68 @@
 }
 
 .u-section-4 .u-image-1 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('https://thedailytexan.com/wp-content/uploads/2023/02/2-7-23_AustinFire_ElizabethAguilar-Garcia-900x696.jpeg');
-  background-position: 50% 50%;
+  margin-top: 0;
+  margin-bottom: 0;
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url("https://images.squarespace-cdn.com/content/v1/58651b98d1758e09281f497e/5db4060d-651a-46c5-adaa-877e7f301774/Main.jpg?format=2500w");
 }
 
 .u-section-4 .u-container-layout-1 {
-  padding: 30px 60px;
+  padding: 30px 26px;
+}
+
+.u-section-4 .u-image-2 {
+  width: 250px;
+  height: 54px;
+  margin: 19px auto 0 19px;
 }
 
 .u-section-4 .u-text-2 {
-  margin: 65px 0 0;
+  margin: 15px auto 0;
 }
 
 .u-section-4 .u-text-3 {
+  font-weight: 700;
+  width: 696px;
+  margin: 66px auto 0;
+}
+
+.u-section-4 .u-btn-1 {
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  background-image: none;
+  margin: 97px auto 0;
+}
+
+.u-section-4 .u-image-3 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('https://thedailytexan.com/wp-content/uploads/2023/02/2-7-23_AustinFire_ElizabethAguilar-Garcia-900x696.jpeg');
+  background-position: 50% 50%;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-4 .u-container-layout-2 {
+  padding: 30px 60px;
+}
+
+.u-section-4 .u-text-4 {
+  margin: 65px 0 0;
+}
+
+.u-section-4 .u-text-5 {
   width: 696px;
   margin: 38px auto 0;
 }
 
-.u-section-4 .u-btn-1 {
+.u-section-4 .u-btn-2 {
   background-image: none;
   font-size: 1.125rem;
   padding: 0;
 }
 
-.u-section-4 .u-btn-2 {
+.u-section-4 .u-btn-3 {
   border-style: none;
   font-weight: 700;
   text-transform: uppercase;
@@ -486,44 +524,8 @@
   margin: 78px auto 0;
 }
 
-.u-section-4 .u-image-2 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.15), rgba(0,0,0,0.15)), url('https://www.cmu.edu/news/stories/archives/2019/july/images/galaxy-matter-balance-1400x700.jpg');
-  background-position: 50% 50%;
-  margin-top: 0;
-  margin-bottom: 0;
-}
-
-.u-section-4 .u-container-layout-2 {
-  padding: 13px 60px;
-}
-
-.u-section-4 .u-text-4 {
-  margin: 107px auto 0 26px;
-}
-
-.u-section-4 .u-text-5 {
-  width: 708px;
-  margin: 53px auto 0;
-}
-
-.u-section-4 .u-btn-3 {
-  background-image: none;
-  font-size: 1.125rem;
-  padding: 0;
-}
-
-.u-section-4 .u-btn-4 {
-  border-style: none;
-  font-weight: 700;
-  text-transform: uppercase;
-  font-size: 0.875rem;
-  letter-spacing: 1px;
-  background-image: none;
-  margin: 66px auto 0;
-}
-
-.u-section-4 .u-image-3 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url('https://cdn.theatlantic.com/thumbor/-QqqWZSYPafYGJ4ARg9vIu03bTE=/0x156:3000x1844/1952x1098/media/img/mt/2018/12/GettyImages_513770176/original.jpg');
+.u-section-4 .u-image-4 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.05), rgba(0,0,0,0.05)), url('https://cdn.sci.esa.int/sci-images/content/images/2019/Gaia_DR2_brightness_colour_equir_600w.jpg');
   background-position: 50% 50%;
   margin-top: 0;
   margin-bottom: 0;
@@ -533,17 +535,47 @@
   padding: 13px 60px;
 }
 
-.u-section-4 .u-image-4 {
+.u-section-4 .u-text-6 {
+  margin: 76px 1px 0;
+}
+
+.u-section-4 .u-text-7 {
+  width: 754px;
+  margin: 151px auto 0;
+}
+
+.u-section-4 .u-btn-4 {
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  background-image: none;
+  margin: 33px auto 0;
+}
+
+.u-section-4 .u-image-5 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url('https://cdn.theatlantic.com/thumbor/-QqqWZSYPafYGJ4ARg9vIu03bTE=/0x156:3000x1844/1952x1098/media/img/mt/2018/12/GettyImages_513770176/original.jpg');
+  background-position: 50% 50%;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-4 .u-container-layout-4 {
+  padding: 13px 60px;
+}
+
+.u-section-4 .u-image-6 {
   width: 205px;
   height: 77px;
   margin: 11px 782px 0 33px;
 }
 
-.u-section-4 .u-text-6 {
+.u-section-4 .u-text-8 {
   margin: 90px 26px 0;
 }
 
-.u-section-4 .u-text-7 {
+.u-section-4 .u-text-9 {
   width: 409px;
   margin: 62px auto 0;
 }
@@ -558,34 +590,40 @@
   margin: 79px auto 0;
 }
 
-.u-section-4 .u-image-5 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.05), rgba(0,0,0,0.05)), url('https://cdn.sci.esa.int/sci-images/content/images/2019/Gaia_DR2_brightness_colour_equir_600w.jpg');
+.u-section-4 .u-image-7 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.15), rgba(0,0,0,0.15)), url('https://www.cmu.edu/news/stories/archives/2019/july/images/galaxy-matter-balance-1400x700.jpg');
   background-position: 50% 50%;
   margin-top: 0;
   margin-bottom: 0;
 }
 
-.u-section-4 .u-container-layout-4 {
+.u-section-4 .u-container-layout-5 {
   padding: 13px 60px;
 }
 
-.u-section-4 .u-text-8 {
-  margin: 76px 1px 0;
+.u-section-4 .u-text-10 {
+  margin: 107px auto 0 26px;
 }
 
-.u-section-4 .u-text-9 {
-  width: 754px;
-  margin: 151px auto 0;
+.u-section-4 .u-text-11 {
+  width: 708px;
+  margin: 53px auto 0;
 }
 
 .u-section-4 .u-btn-6 {
+  background-image: none;
+  font-size: 1.125rem;
+  padding: 0;
+}
+
+.u-section-4 .u-btn-7 {
   border-style: none;
   font-weight: 700;
   text-transform: uppercase;
   font-size: 0.875rem;
   letter-spacing: 1px;
   background-image: none;
-  margin: 33px auto 0;
+  margin: 66px auto 0;
 }
 
 .u-section-4 .u-carousel-control-1 {
@@ -607,8 +645,7 @@
 }
 
 @media (max-width: 1199px) {
-  .u-section-4 .u-image-4 {
-    height: 76px;
+  .u-section-4 .u-image-6 {
     margin-right: 615px;
     margin-left: 0;
   }
@@ -619,13 +656,8 @@
     min-height: 440px;
   }
 
-  .u-section-4 .u-container-layout-1 {
-    padding-left: 30px;
-    padding-right: 30px;
-  }
-
   .u-section-4 .u-text-3 {
-    width: 660px;
+    width: 669px;
   }
 
   .u-section-4 .u-container-layout-2 {
@@ -642,8 +674,8 @@
     padding-right: 30px;
   }
 
-  .u-section-4 .u-image-4 {
-    margin-right: 455px;
+  .u-section-4 .u-text-7 {
+    width: 660px;
   }
 
   .u-section-4 .u-container-layout-4 {
@@ -651,7 +683,16 @@
     padding-right: 30px;
   }
 
-  .u-section-4 .u-text-9 {
+  .u-section-4 .u-image-6 {
+    margin-right: 455px;
+  }
+
+  .u-section-4 .u-container-layout-5 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-4 .u-text-11 {
     width: 660px;
   }
 }
@@ -688,8 +729,8 @@
     padding-right: 10px;
   }
 
-  .u-section-4 .u-image-4 {
-    margin-right: 315px;
+  .u-section-4 .u-text-7 {
+    width: 520px;
   }
 
   .u-section-4 .u-container-layout-4 {
@@ -697,7 +738,16 @@
     padding-right: 10px;
   }
 
-  .u-section-4 .u-text-9 {
+  .u-section-4 .u-image-6 {
+    margin-right: 315px;
+  }
+
+  .u-section-4 .u-container-layout-5 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-4 .u-text-11 {
     width: 520px;
   }
 }
@@ -711,15 +761,19 @@
     width: 320px;
   }
 
-  .u-section-4 .u-image-4 {
-    margin-right: 115px;
-  }
-
   .u-section-4 .u-text-7 {
     width: 320px;
   }
 
+  .u-section-4 .u-image-6 {
+    margin-right: 115px;
+  }
+
   .u-section-4 .u-text-9 {
+    width: 320px;
+  }
+
+  .u-section-4 .u-text-11 {
     width: 320px;
   }
 }
