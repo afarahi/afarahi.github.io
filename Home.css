@@ -8,7 +8,7 @@
   width: 577px;
   min-height: 146px;
   height: auto;
-  margin: 190px calc(((100% - 1140px) / 2)  + 104px) 0 auto;
+  margin: 60px auto 0 499px;
 }
 
 .u-section-1 .u-text-1 {
@@ -27,7 +27,7 @@
 .u-section-1 .u-image-1 {
   width: 214px;
   height: 153px;
-  margin: -153px auto 60px calc(((100% - 1140px) / 2)  + 124px);
+  margin: -153px auto 53px 164px;
 }
 
 @media (max-width: 1199px) {
@@ -36,15 +36,15 @@
   }
 
   .u-section-1 .u-group-elements-1 {
-    margin-top: 177px;
-    margin-right: calc(((100% - 940px) / 2)  + 84px);
+    margin-top: 157px;
+    margin-left: 345px;
   }
 
   .u-section-1 .u-image-1 {
     width: 188px;
     height: 134px;
     margin-top: -140px;
-    margin-left: calc(((100% - 940px) / 2)  + 52px);
+    margin-left: 118px;
   }
 }
 
@@ -54,15 +54,16 @@
   }
 
   .u-section-1 .u-group-elements-1 {
-    margin-top: 119px;
+    margin-top: 116px;
     margin-right: calc(((100% - 720px) / 2)  + -25px);
+    margin-left: 143px;
   }
 
   .u-section-1 .u-image-1 {
     width: 157px;
     height: 109px;
-    margin-top: -121px;
-    margin-left: calc(((100% - 720px) / 2)  + -19px);
+    margin-top: -109px;
+    margin-left: calc(((100% - 720px) / 2)  + -35px);
   }
 }
 
@@ -74,8 +75,9 @@
   .u-section-1 .u-group-elements-1 {
     width: 540px;
     min-height: 60px;
-    margin-top: 143px;
+    margin-top: 97px;
     margin-right: calc(((100% - 540px) / 2)  + -20px);
+    margin-left: 0;
   }
 
   .u-section-1 .u-text-1 {
@@ -93,7 +95,7 @@
   .u-section-1 .u-image-1 {
     width: 117px;
     height: 65px;
-    margin-top: -63px;
+    margin-top: -60px;
     margin-left: calc(((100% - 540px) / 2));
   }
 }
@@ -104,15 +106,14 @@
   }
 
   .u-section-1 .u-group-elements-1 {
-    width: calc(((100% - 340px) / 2)  + 290px);
-    margin-top: 151px;
-    margin-right: 0;
+    width: 340px;
+    margin-top: 62px;
+    margin-right: auto;
   }
 
   .u-section-1 .u-image-1 {
     width: 101px;
     height: 72px;
-    margin-top: -66px;
     margin-left: calc(((100% - 340px) / 2)  + -24px);
   }
 } .u-section-2 {
