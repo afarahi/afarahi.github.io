@@ -880,7 +880,7 @@
 
 .u-section-7 .u-image-1 {
   min-height: 480px;
-  background-image: url("/images/JanaviKolpekwar.jpeg");
+  background-image: url("/images/Janavi-1.jpg");
   background-position: 50% 50%;
 }
 
@@ -922,7 +922,7 @@
 .u-section-7 .u-text-3 {
   text-align: left;
   font-size: 1.125rem;
-  margin: 20px 47px 0 auto;
+  margin: 20px 47px 0 3px;
 }
 
 @media (max-width: 1199px) {
@@ -957,6 +957,7 @@
 
   .u-section-7 .u-text-3 {
     margin-right: 0;
+    margin-left: 0;
   }
 }
 
