@@ -688,7 +688,7 @@
 }
 
 .u-section-6 .u-icon-4 {
-  height: 136px;
+  height: 131px;
   width: 136px;
   background-image: none;
   margin: 0 auto;
@@ -779,11 +779,16 @@
 
 .u-section-6 .u-btn-8 {
   background-image: none;
-  font-size: 1.125rem;
   padding: 0;
 }
 
 .u-section-6 .u-btn-9 {
+  background-image: none;
+  font-size: 1.125rem;
+  padding: 0;
+}
+
+.u-section-6 .u-btn-10 {
   background-image: none;
   font-size: 1.125rem;
   padding: 0;
