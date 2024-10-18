@@ -43,6 +43,16 @@
   margin: 39px 7px 0;
 }
 
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-2 {
+  background-image: none;
+  padding: 0;
+}
+
 .u-section-1 .u-text-4 {
   font-size: 1.5rem;
   margin: 22px 7px 0;
