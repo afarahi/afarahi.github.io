@@ -1,5 +1,5 @@
 .u-section-1 .u-sheet-1 {
-  min-height: 750px;
+  min-height: 814px;
 }
 
 .u-section-1 .u-text-1 {
@@ -10,12 +10,11 @@
 .u-section-1 .u-layout-wrap-1 {
   margin-top: 20px;
   margin-bottom: 0;
-  margin-left: auto;
 }
 
 .u-section-1 .u-image-1 {
   min-height: 615px;
-  background-image: url("/images/AryaFarahiDirectory.jpg");
+  background-image: url("images/AryaFarahiDirectory.jpg");
   background-position: 50% 50%;
 }
 
@@ -61,10 +60,6 @@
 @media (max-width: 1199px) {
   .u-section-1 .u-sheet-1 {
     min-height: 627px;
-  }
-
-  .u-section-1 .u-layout-wrap-1 {
-    margin-left: initial;
   }
 
   .u-section-1 .u-image-1 {
@@ -207,7 +202,7 @@
 
 .u-section-2 .u-image-1 {
   min-height: 550px;
-  background-image: url("/images/Ritwik_Vashistha.jpeg");
+  background-image: url("images/Ritwik_Vashistha.jpeg");
   background-position: 50% 50%;
 }
 
@@ -318,7 +313,7 @@
 
 .u-section-3 .u-image-1 {
   min-height: 615px;
-  background-image: url("/images/Nevena-Gligic.png");
+  background-image: url("images/Nevena-Gligic.png");
   background-position: 50% 50%;
 }
 
@@ -502,7 +497,7 @@
 
 .u-section-4 .u-image-1 {
   min-height: 480px;
-  background-image: url("/images/prachi.png");
+  background-image: url("images/prachi.png");
   background-position: 50% 50%;
 }
 
@@ -614,7 +609,7 @@
 
 .u-section-5 .u-image-1 {
   min-height: 480px;
-  background-image: url("/images/download20230500094539.png");
+  background-image: url("images/download20230500094539.png");
   background-position: 50% 50%;
 }
 
@@ -804,7 +799,7 @@
 
 .u-section-6 .u-image-1 {
   min-height: 480px;
-  background-image: url("/images/Dao.jpg");
+  background-image: url("images/Dao.jpg");
   background-position: 50% 50%;
 }
 
@@ -916,7 +911,7 @@
 
 .u-section-7 .u-image-1 {
   min-height: 480px;
-  background-image: url("/images/Janavi-1.jpg");
+  background-image: url("images/Janavi-1.jpg");
   background-position: 50% 50%;
 }
 
@@ -1107,7 +1102,7 @@
 
 .u-section-8 .u-image-1 {
   min-height: 480px;
-  background-image: url("/images/Cindy_Fan.jpg");
+  background-image: url("images/Cindy_Fan.jpg");
   background-position: 50% 50%;
 }
 
@@ -1219,7 +1214,7 @@
 
 .u-section-9 .u-image-1 {
   min-height: 480px;
-  background-image: url("/images/Vineet.jpeg");
+  background-image: url("images/Vineet.jpeg");
   background-position: 50% 50%;
 }
 
@@ -1410,7 +1405,7 @@
 
 .u-section-10 .u-image-1 {
   min-height: 480px;
-  background-image: url("/images/247bb4993aab4aa30c5dfae7cde50df3272a357ce7264a19f04a68c617d88856f9e28470503df752eaa586fcac538824a37b3cfeec48021108be9c_1280.png");
+  background-image: url("images/247bb4993aab4aa30c5dfae7cde50df3272a357ce7264a19f04a68c617d88856f9e28470503df752eaa586fcac538824a37b3cfeec48021108be9c_1280.png");
   background-position: 50% 50%;
 }
 

@@ -73,6 +73,10 @@
     margin-top: 9px;
     margin-left: initial;
   }
+
+  .u-section-1 .u-text-1 {
+    margin-top: 20px;
+  }
 }
 
 @media (max-width: 575px) {
