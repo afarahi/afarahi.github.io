@@ -242,12 +242,12 @@
 .u-section-3 .u-gallery-inner-1 {
   background-image: url("images/337381530_230749376106654_2702415202708703927_n.jpeg");
   background-position: 50% 50%;
+  --gap: 0px;
 }
 
 .u-section-3 .u-carousel-item-1 {
   margin-right: 0;
   margin-top: 0;
-  margin-bottom: 0;
 }
 
 .u-section-3 .u-over-slide-1 {
@@ -259,7 +259,6 @@
 .u-section-3 .u-carousel-item-2 {
   margin-right: 0;
   margin-top: 0;
-  margin-bottom: 0;
 }
 
 .u-section-3 .u-over-slide-2 {
@@ -271,7 +270,6 @@
 .u-section-3 .u-carousel-item-3 {
   margin-right: 0;
   margin-top: 0;
-  margin-bottom: 0;
 }
 
 .u-section-3 .u-over-slide-3 {
@@ -283,7 +281,6 @@
 .u-section-3 .u-carousel-item-4 {
   margin-right: 0;
   margin-top: 0;
-  margin-bottom: 0;
 }
 
 .u-section-3 .u-over-slide-4 {
@@ -295,7 +292,6 @@
 .u-section-3 .u-carousel-item-5 {
   margin-right: 0;
   margin-top: 0;
-  margin-bottom: 0;
 }
 
 .u-section-3 .u-over-slide-5 {
@@ -307,7 +303,6 @@
 .u-section-3 .u-carousel-item-6 {
   margin-right: 0;
   margin-top: 0;
-  margin-bottom: 0;
 }
 
 .u-section-3 .u-over-slide-6 {
@@ -335,6 +330,30 @@
 @media (max-width: 1199px) {
   .u-section-3 .u-gallery-1 {
     margin-right: 147px;
+  }
+
+  .u-section-3 .u-carousel-item-1 {
+    margin-bottom: 0;
+  }
+
+  .u-section-3 .u-carousel-item-2 {
+    margin-bottom: 0;
+  }
+
+  .u-section-3 .u-carousel-item-3 {
+    margin-bottom: 0;
+  }
+
+  .u-section-3 .u-carousel-item-4 {
+    margin-bottom: 0;
+  }
+
+  .u-section-3 .u-carousel-item-5 {
+    margin-bottom: 0;
+  }
+
+  .u-section-3 .u-carousel-item-6 {
+    margin-bottom: 0;
   }
 }
 
@@ -480,12 +499,12 @@
 .u-section-5 .u-gallery-inner-1 {
   background-image: url("https://media.npr.org/assets/img/2016/02/25/gettyimages-511283154-d04c42ddad9c38a43b1119e5f42f19fb4de18ba5.jpg");
   background-position: 50% 50%;
+  --gap: 0px;
 }
 
 .u-section-5 .u-carousel-item-1 {
   margin-right: 0;
   margin-top: 0;
-  margin-bottom: 0;
 }
 
 .u-section-5 .u-over-slide-1 {
@@ -497,7 +516,6 @@
 .u-section-5 .u-carousel-item-2 {
   margin-right: 0;
   margin-top: 0;
-  margin-bottom: 0;
 }
 
 .u-section-5 .u-over-slide-2 {
@@ -509,7 +527,6 @@
 .u-section-5 .u-carousel-item-3 {
   margin-right: 0;
   margin-top: 0;
-  margin-bottom: 0;
 }
 
 .u-section-5 .u-over-slide-3 {
@@ -521,7 +538,6 @@
 .u-section-5 .u-carousel-item-4 {
   margin-right: 0;
   margin-top: 0;
-  margin-bottom: 0;
 }
 
 .u-section-5 .u-over-slide-4 {
@@ -533,7 +549,6 @@
 .u-section-5 .u-carousel-item-5 {
   margin-right: 0;
   margin-top: 0;
-  margin-bottom: 0;
 }
 
 .u-section-5 .u-over-slide-5 {
@@ -555,6 +570,28 @@
   height: 40px;
   left: auto;
   right: 10px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-5 .u-carousel-item-1 {
+    margin-bottom: 0;
+  }
+
+  .u-section-5 .u-carousel-item-2 {
+    margin-bottom: 0;
+  }
+
+  .u-section-5 .u-carousel-item-3 {
+    margin-bottom: 0;
+  }
+
+  .u-section-5 .u-carousel-item-4 {
+    margin-bottom: 0;
+  }
+
+  .u-section-5 .u-carousel-item-5 {
+    margin-bottom: 0;
+  }
 }
 
 @media (max-width: 991px) {
@@ -704,7 +741,8 @@
 .u-section-7 .u-repeater-1 {
   grid-template-columns: repeat(3, calc(33.3333% - 6.66667px));
   min-height: 1076px;
-  grid-gap: 10px;
+  --gap: 10px;
+  grid-auto-columns: calc(33.3333% - 6.66667px);
 }
 
 .u-section-7 .u-container-layout-1 {
@@ -909,7 +947,9 @@
 
   .u-section-7 .u-repeater-1 {
     grid-template-columns: repeat(3, calc(33.333333333333336% - 6.66667px));
+    grid-gap: 10px;
     min-height: 885px;
+    grid-auto-columns: calc(33.333333333333336% - 6.666666666666667px);
   }
 }
 
@@ -917,12 +957,14 @@
   .u-section-7 .u-repeater-1 {
     grid-template-columns: repeat(2, calc(50% - 5.0000025px));
     min-height: 1539px;
+    grid-auto-columns: calc(50% - 5px);
   }
 }
 
 @media (max-width: 767px) {
   .u-section-7 .u-repeater-1 {
     grid-template-columns: 100%;
+    grid-auto-columns: calc(100% - 0px);
   }
 
   .u-section-7 .u-container-layout-1 {
@@ -988,6 +1030,7 @@
 
 .u-section-8 .u-gallery-inner-1 {
   grid-template-columns: repeat(3, auto);
+  --gap: 0px;
 }
 
 .u-section-8 .u-gallery-item-1 {
